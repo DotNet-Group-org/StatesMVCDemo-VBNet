@@ -1,0 +1,10 @@
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\bin\StatesMVCDemo-VBNet.dll
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\bin\StatesMVCDemo-VBNet.pdb
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\bin\StatesMVCDemo-VBNet.xml
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\StatesMVCDemo_VBNet.Resources.resources
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\GenerateResource.read.1.tlog
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\GenerateResource.write.1.tlog
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\StatesMVCDemo-VBNet.dll
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\StatesMVCDemo-VBNet.xml
+c:\users\rlr\documents\visual studio 2010\Projects\StatesMVCDemo-VBNet\StatesMVCDemo-VBNet\obj\Debug\StatesMVCDemo-VBNet.pdb

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StatesMVCDemo-VBNet
+</name>
+</assembly>
+<members>
+<member name="M:StatesMVCDemo_VBNet.StatesEntities.#ctor">
+	<summary>
+ Initializes a new StatesEntities object using the connection string found in the 'StatesEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.StatesEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new StatesEntities object.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.StatesEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new StatesEntities object.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.StatesEntities.Counties">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.StatesEntities.States">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.StatesEntities.AddToCounties(StatesMVCDemo_VBNet.County)">
+	<summary>
+ Deprecated Method for adding a new object to the Counties EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.StatesEntities.AddToStates(StatesMVCDemo_VBNet.State)">
+	<summary>
+ Deprecated Method for adding a new object to the States EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:StatesMVCDemo_VBNet.StatesEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.County.CreateCounty(System.Int32,System.Int32)">
+	<summary>
+ Create a new County object.
+ </summary>
+	<param name="countyID">Initial value of the countyID property.</param>
+	<param name="stateID">Initial value of the stateID property.</param>
+</member><member name="P:StatesMVCDemo_VBNet.County.countyID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.County.stateID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.County.countyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.County.State">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.County.StateReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:StatesMVCDemo_VBNet.County">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:StatesMVCDemo_VBNet.State.CreateState(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new State object.
+ </summary>
+	<param name="stateID">Initial value of the stateID property.</param>
+	<param name="stateName">Initial value of the stateName property.</param>
+	<param name="stateAbbr">Initial value of the stateAbbr property.</param>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateAbbr">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateCapital">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateTree">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateFlower">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateBird">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateRegion">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateImageFlag">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.stateImageSeal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:StatesMVCDemo_VBNet.State.Counties">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:StatesMVCDemo_VBNet.State">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>
